@@ -1,0 +1,8 @@
+244,C1$@DOM1,C1$@DOM1,C1,C529,Kerberos,Network,LogOn,Success
+254,C1$@DOM1,C1$@DOM1,C529,C529,?,Network,LogOff,Success
+256,C1$@DOM1,C1$@DOM1,C1,C529,Kerberos,Network,LogOn,Success
+260,C1$@DOM1,C1$@DOM1,C529,C529,?,Network,LogOff,Success
+1144,C1$@DOM1,C1$@DOM1,C1,C529,Kerberos,Network,LogOn,Success
+1154,C1$@DOM1,C1$@DOM1,C529,C529,?,Network,LogOff,Success
+1194,C1$@DOM1,C1$@DOM1,C1,C529,Kerberos,Network,LogOn,Success
+1197,C1$@DOM1,C1$@DOM1,C529,C529,?,Network,LogOff,Success

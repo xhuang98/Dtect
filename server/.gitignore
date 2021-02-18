@@ -1,0 +1,5 @@
+#flask server
+venv
+__pycache__
+#jupyter
+.ipynb_checkpoints

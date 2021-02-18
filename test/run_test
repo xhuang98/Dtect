@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+python3 -m pytest ./test_suites.py
+cd data_processing/
+python3 -m pytest .

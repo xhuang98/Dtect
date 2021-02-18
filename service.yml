@@ -1,0 +1,19 @@
+ tools:
+   exceptions: https://sentry.io/organizations/dcsil/issues/?project=5450617
+   logging: https://sentry.io/organizations/dcsil/issues/?project=5450617
+   ci: https://github.com/dcsil/Dtect/actions
+
+ services:
+   production: http://dtect-app.herokuapp.com/
+
+ docs:
+   getting_started: ./README.md
+
+ commands:
+   bootstrap: script/bootstrap
+   database:
+     create: cd server && python3 setupdb.py
+   server:
+     back-end: cd server/dtect-app && yarn start-api
+     front-end: cd server/dtect-app && yarn start
+   test: cd test && ./run_test

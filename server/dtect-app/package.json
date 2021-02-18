@@ -1,0 +1,51 @@
+{
+  "name": "dtect-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "4.10.0",
+    "@material-ui/icons": "4.9.1",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "chartist": "^0.10.1",
+    "classnames": "2.2.6",
+    "history": "4.10.1",
+    "mobx": "^6.0.4",
+    "mobx-react": "^7.0.5",
+    "perfect-scrollbar": "1.5.0",
+    "react": "^16.13.1",
+    "react-chartist": "^0.14.3",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.0",
+    "typescript": "3.9.3",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start-api": "cd ../ && venv/bin/flask run --no-debugger",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:5000"
+}
