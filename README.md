@@ -4,6 +4,8 @@
 
 Dtect is a company founded in the data security industry. Dtect aims to perform user behaviour analysis in the workspace to detect insider threat. The main focus of Dtect is to display a comprehensive User Interface for behavioural events and explore Machine Learning solutions to behavioural analysis.
 
+_This project is mentored by [DSCIL](https://dcsil.ca/) at the University of Toronto and the Royal Bank of Canada._
+
 High-Level Architecture
 ---
 ![Architecture](./product_research/app/architecture.png)
@@ -25,4 +27,5 @@ Table of Contents
     - [Roadmap](./product_research/roadmap.md)
     - [Accessibility](product_research/UIUX/Accessibility.md)
     - [Demo](demo/)
+    - [service.yml](service.yml)
  
