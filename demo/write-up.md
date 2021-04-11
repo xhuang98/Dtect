@@ -38,3 +38,11 @@ Demo Video: https://drive.google.com/file/d/1J94VWlzdt97txBHj1s8HzNXee9aUvXv3/vi
 - Future plans:
   - Improve performance
   - Control false positive rate
+
+## Screenshots
+### Dashboard
+![Dashboard](./Dashboard.png)
+### Log Data
+![LogData](./LogData.png)
+### Alerts (Anomalies)
+![Anomalies](./Anomalies.png)
