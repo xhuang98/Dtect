@@ -23,9 +23,9 @@ Table of Contents
 
 - [People](./team/)
 - [Diversity](./team/diversity.md)
+- [Demo](demo/)
 - [Product & Research](./product_research/)
     - [Roadmap](./product_research/roadmap.md)
     - [Accessibility](product_research/UIUX/Accessibility.md)
-    - [Demo](demo/)
     - [service.yml](service.yml)
  
