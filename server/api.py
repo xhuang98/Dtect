@@ -27,7 +27,7 @@ ENV = 'production'
 
 if (ENV == 'production'):
     app.debug = False
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://chsmzdmeqabshc:8efa7d222d9d0cd81ab0d5bd2763080d46c885aa0063c05a68400e6635ae5205@ec2-184-72-162-198.compute-1.amazonaws.com:5432/d267i08nmjd2r7'
+    app.config['SQLALCHEMY_DATABASE_URI'] = '###REDACTED###'
 else:
     app.debug = True
     app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:12345@localhost/dtect'
